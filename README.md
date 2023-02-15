@@ -8,7 +8,7 @@ Brief Description :- The Master Bot will be operate by human beings at control r
                      opened using a servo. One of the slave send the live video footage of everything and detect the objects. Another one detect the metal and send 
                      the live location to the control room.
                      
-Hardware Software Used :- Microcontroller ( UNO , Node MCU , ESP32(Camera Module) , ESP32 ) 
+Hardware Software Used :- Microcontroller ( Arduino UNO , Arduino Nano , Node MCU , ESP32(Camera Module) , ESP32 ) 
                           Motor Driver ( L298N )
                           Motor ( DC Motor , Servo Motor )
                           Trans-Receiver (RX-TX 433 MHz)
@@ -16,5 +16,5 @@ Hardware Software Used :- Microcontroller ( UNO , Node MCU , ESP32(Camera Module
                           
                           
                           
-Process Flow :- 
+Process Flow :- Attached the file of Process Flow of our prototype
 [Master Slave Process Flow.docx](https://github.com/AvrajeetGhosh/ROBUSTA/files/10742213/Master.Slave.Process.Flow.docx)
